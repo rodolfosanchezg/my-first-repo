@@ -9,7 +9,7 @@ I live currently in Bucaramanga, Colombia.
 Three of my favorite books are:
 
 - *The Unix Workbench* by Sean Cross
-- *First Java" by Kathy Sierra & Bert Bates
+- *First Java* by Kathy Sierra & Bert Bates
 - *Python Data Science Handbook* by Jave VanderPlas
 
 ### Food
