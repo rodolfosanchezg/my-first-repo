@@ -1,28 +1,25 @@
-# This is a large heading
+# Rodolfo Sanchez
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live currently in Bucaramanga, Colombia.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *The Unix Workbench* by Sean Cross
+- *First Java" by Kathy Sierra & Bert Bates
+- *Python Data Science Handbook* by Jave VanderPlas
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Last night I dreamt about eating in these restaurants:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. The Burger Dive in Billings, MT
+2. Oklahoma Joe's in Kansas City, KS
+3. Katzi's Deli in New York, NY
+
+### Contact
+
+The best way to get in touch with me is [on e-mail](rodolfo.sanchezg@gmail.com).
