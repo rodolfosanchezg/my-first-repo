@@ -1,0 +1,29 @@
+commit 9c3eda841e424b9270ef50b016cf8eee2c6236e5
+Author: rodolfosanchezg <ing.rodolsan@gmail.com>
+Date:   Sat May 11 09:16:53 2019 -0500
+
+    added gitignore
+
+commit c6f6609d1f63ec73e13df42cc5e85d7e2b53ba2d
+Author: rodolfosanchezg <ing.rodolsan@gmail.com>
+Date:   Sat May 11 08:33:13 2019 -0500
+
+    added two files
+
+commit dd4277eccb42b876bf7b77fdc98abedf6167031d
+Author: rodolfosanchezg <ing.rodolsan@gmail.com>
+Date:   Sat May 11 08:12:22 2019 -0500
+
+    added readme.txt
+
+commit 9f18d1f37c25b2238b0c37558e92e51ab7584891
+Author: rodolfosanchezg <ing.rodolsan@gmail.com>
+Date:   Fri May 10 19:47:16 2019 -0500
+
+    added two files
+
+commit be64e984c3a7e3c974353e40a00746a03dc07e46
+Author: rodolfosanchezg <ing.rodolsan@gmail.com>
+Date:   Fri May 10 19:30:22 2019 -0500
+
+    added readme.txt
